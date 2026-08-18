@@ -1,0 +1,14 @@
+@baseUrl = https://localhost:7113
+
+###
+GET {{baseUrl}}/api/products
+tenant:TenantA
+x-api-key:TenantAKey
+
+###
+GET {{baseUrl}}/api/products/133
+tenant:TenantA
+x-api-key:TenantAKey
+
+###
+GET {{baseUrl}}/api/employees

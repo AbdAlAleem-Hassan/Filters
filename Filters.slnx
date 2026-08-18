@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="ActionFilters/ActionFilters.csproj" />
+  <Project Path="EndPointsFilters/EndPointsFilters.csproj" />
+  <Project Path="ExceptionFilters/ExceptionFilters.csproj" />
+  <Project Path="ResourceFilters/ResourceFilters.csproj" />
+  <Project Path="ResultFilters/ResultFilters.csproj" />
+</Solution>
