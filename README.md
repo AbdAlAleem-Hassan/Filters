@@ -6,7 +6,7 @@ A collection of small sample projects demonstrating the different types of **Fil
 
 | # | Filter | Short Description |
 |---|--------|--------------------|
-| 1 | [Action Filters](/ActionFilters/README.md) | Run before and after the execution of the Action Method itself |
+| 1 | [Action Filters](ActionFilters/README.md) | Run before and after the execution of the Action Method itself |
 | 2 | [Resource Filters](./ResourceFilters/README.md) | Run right after Authorization, used to verify the resource rather than the user's identity |
 | 3 | [Result Filters](./ResultFilters/README.md) | Control the shape of the Response returned from an Action |
 | 4 | [Exception Filters](./ExceptionFilters/README.md) | Catch unexpected exceptions and prevent leaking sensitive details |
